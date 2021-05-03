@@ -341,6 +341,7 @@ footer .copyright p{
     line-height: 70px;
     color: #565656;
     text-align: center;
+    margin-bottom: 0;
 }
 footer .footer .widget .content form .error{
     color: red;
@@ -378,7 +379,7 @@ footer .footer .widget .content form .error{
         padding: 40px 0 0 ;
     }
     footer .footer .widget .content ul.social-links li a{
-        width: 40ox;
+        width: 40px;
         height: 40px; 
         line-height: 40px;
     }
